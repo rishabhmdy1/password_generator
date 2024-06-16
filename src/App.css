@@ -1,0 +1,14 @@
+.main-wrapper {
+    background-color: rgb(76, 76, 76);
+    color: rgb(183, 183, 183);
+}
+
+.input-div input {
+    border: 2px solid rgb(102, 102, 102);
+    margin: 0.5rem;
+    padding: 0.3rem;
+    
+}
+.input-div button{
+    padding: 0.2rem;
+}
